@@ -12,4 +12,4 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Programmer since 2020
+💻 Programmer since 2019
