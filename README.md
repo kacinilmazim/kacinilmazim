@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 22px"> (っ◔◡◔)っ Bed!!11 </h1><span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+<h1 align="center" style="font-size: 22px"> (っ◔◡◔)っ Kacinilmazim </h1><span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
